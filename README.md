@@ -1,1 +1,1 @@
-Grupo de informática de la UPCM
+usuario github del grupo de informática de la UPCM
